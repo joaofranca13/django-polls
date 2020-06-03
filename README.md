@@ -1,3 +1,3 @@
-#1 Django Polls App
+# Django-polls
 
-#4 Django tutorial polls app
+Django tutorial polls app
